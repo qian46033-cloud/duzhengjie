@@ -1,0 +1,6 @@
+{
+  "name": "都正街 - 个人主页与业务约单",
+  "description": "都正街｜旧木载着未写完的沉郁。暗黑哥特风个人主页，主营代宣、公关、管理、代挂、代招、美化等业务价目与下单须知。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
